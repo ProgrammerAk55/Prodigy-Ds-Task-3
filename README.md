@@ -33,7 +33,7 @@ The dataset provides both **numerical** and **categorical** columns, including:
 - **Numerical:** `age`, `balance`, `duration`, `campaign`, `previous`, etc.
 - **Categorical:** `job`, `marital`, `education`, `contact`, `month`, `poutcome`  
 - **Target:** `y` — indicates if a client subscribed to a term deposit (`yes`, `no`)
-- 📂 [Dataset(https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-3/refs/heads/main/bank.csv)]
+- 📂 [Dataset](https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-3/refs/heads/main/bank.csv)
   
 ---
 
@@ -64,7 +64,7 @@ The dataset provides both **numerical** and **categorical** columns, including:
 ## 📊 Results & Output
 
 - **Tree Visualization:**  
-  [DT_PLOT(https://github.com/ProgrammerAk55/Prodigy-Ds-Task-3/blob/main/Dt_plot.png)]
+  [DT_PLOT](https://github.com/ProgrammerAk55/Prodigy-Ds-Task-3/blob/main/Dt_plot.png)
 - **Sample Performance Metrics:**  
   - Accuracy, precision, recall, F1-score reported in the notebook
 
@@ -81,4 +81,4 @@ The dataset provides both **numerical** and **categorical** columns, including:
 ## 🤝 About Me
 
 👋 I’m an aspiring Data Analyst passionate about business intelligence, predictive analytics, and meaningful visualizations.  
-Connect with me on [Linkedin(https://www.linkedin.com/in/y-anilkumar/)] for discussion or collaboration!
+Connect with me on [Linkedin](https://www.linkedin.com/in/y-anilkumar/) for discussion or collaboration!
